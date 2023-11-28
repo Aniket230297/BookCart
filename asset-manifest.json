@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookCart/static/css/main.a3ec1063.css",
+    "main.js": "/BookCart/static/js/main.f04401df.js",
+    "static/js/787.a1f4eee3.chunk.js": "/BookCart/static/js/787.a1f4eee3.chunk.js",
+    "index.html": "/BookCart/index.html",
+    "main.a3ec1063.css.map": "/BookCart/static/css/main.a3ec1063.css.map",
+    "main.f04401df.js.map": "/BookCart/static/js/main.f04401df.js.map",
+    "787.a1f4eee3.chunk.js.map": "/BookCart/static/js/787.a1f4eee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ec1063.css",
+    "static/js/main.f04401df.js"
+  ]
+}
